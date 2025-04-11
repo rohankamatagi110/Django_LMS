@@ -15,7 +15,6 @@ This project is built with :
 
 
 ## Installation 📦
-### To install Django Music Player, follow these steps:
 ## 2. Navigate to the project directory:
 
 ```bash
